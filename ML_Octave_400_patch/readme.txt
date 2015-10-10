@@ -1,5 +1,6 @@
 If your get errors like "JSONparser:invalidFormat: Outer level structure must be an object or an array" 
 or "jsonBody value is not a valid JSON String" when you are using Octave 4.0.0
+https://www.coursera.org/learn/machine-learning/discussions/vgCyrQoMEeWv5yIAC00Eog
 
 This patch works around the defective printf() function in Octave 4.0.0
 
