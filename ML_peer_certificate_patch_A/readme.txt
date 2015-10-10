@@ -1,5 +1,5 @@
-This patch fixes the "Peer certificate" issue with the submit.m script for Windows-like systems.
-The patch was first developed by Liran Moysi.
+This patch fixes the "Peer certificate" issue "Submission failed: unexpected error: urlread: Peer certificate cannot be authenticated with given CA certificates"
+
 Instructions:
 1) Copy the file "submitWithConfiguration.m" to the "../ex?/lib" folder for each programming exercise.
 This will overwrite the existing file.
